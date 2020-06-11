@@ -40,7 +40,7 @@ body {
 }
 
 #headingGroup span {
-    color: rgb(28, 234, 107);
+    color: rgb(28, 49, 234);
 }
 
 #headingGroup h1 {
@@ -49,7 +49,7 @@ body {
 }
 
 .navbar.scrolled {
-    background: rgb(149, 167, 152);
+    background: rgb(38, 33, 136);
     transition: background 500ms;
 }
 
